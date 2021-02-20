@@ -1,20 +1,27 @@
 {
   "files": {
     "main.css": "/bankly/static/css/main.adffd59a.chunk.css",
-    "main.js": "/bankly/static/js/main.8d9e20f2.chunk.js",
-    "main.js.map": "/bankly/static/js/main.8d9e20f2.chunk.js.map",
+    "main.js": "/bankly/static/js/main.3a0fb7e9.chunk.js",
+    "main.js.map": "/bankly/static/js/main.3a0fb7e9.chunk.js.map",
     "runtime-main.js": "/bankly/static/js/runtime-main.f06af1b9.js",
     "runtime-main.js.map": "/bankly/static/js/runtime-main.f06af1b9.js.map",
-    "static/js/2.bac20fd4.chunk.js": "/bankly/static/js/2.bac20fd4.chunk.js",
-    "static/js/2.bac20fd4.chunk.js.map": "/bankly/static/js/2.bac20fd4.chunk.js.map",
+    "static/js/2.9dcbefb3.chunk.js": "/bankly/static/js/2.9dcbefb3.chunk.js",
+    "static/js/2.9dcbefb3.chunk.js.map": "/bankly/static/js/2.9dcbefb3.chunk.js.map",
     "index.html": "/bankly/index.html",
     "static/css/main.adffd59a.chunk.css.map": "/bankly/static/css/main.adffd59a.chunk.css.map",
-    "static/js/2.bac20fd4.chunk.js.LICENSE.txt": "/bankly/static/js/2.bac20fd4.chunk.js.LICENSE.txt"
+    "static/js/2.9dcbefb3.chunk.js.LICENSE.txt": "/bankly/static/js/2.9dcbefb3.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/bankly/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/bankly/static/media/svg-2.539d3db9.svg",
+    "static/media/svg-5.svg": "/bankly/static/media/svg-5.5f11287c.svg",
+    "static/media/svg-6.2a09e497.svg": "/bankly/static/media/svg-6.2a09e497.svg",
+    "static/media/svg-7.5921a79e.svg": "/bankly/static/media/svg-7.5921a79e.svg",
+    "static/media/svg-8.48e040b8.svg": "/bankly/static/media/svg-8.48e040b8.svg",
+    "static/media/video.7d1ea6a9.mp4": "/bankly/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f06af1b9.js",
-    "static/js/2.bac20fd4.chunk.js",
+    "static/js/2.9dcbefb3.chunk.js",
     "static/css/main.adffd59a.chunk.css",
-    "static/js/main.8d9e20f2.chunk.js"
+    "static/js/main.3a0fb7e9.chunk.js"
   ]
 }
