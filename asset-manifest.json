@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/bankly/static/css/main.adffd59a.chunk.css",
-    "main.js": "/bankly/static/js/main.26be11e8.chunk.js",
-    "main.js.map": "/bankly/static/js/main.26be11e8.chunk.js.map",
+    "main.js": "/bankly/static/js/main.e23d81f3.chunk.js",
+    "main.js.map": "/bankly/static/js/main.e23d81f3.chunk.js.map",
     "runtime-main.js": "/bankly/static/js/runtime-main.f06af1b9.js",
     "runtime-main.js.map": "/bankly/static/js/runtime-main.f06af1b9.js.map",
-    "static/js/2.7fb8e542.chunk.js": "/bankly/static/js/2.7fb8e542.chunk.js",
-    "static/js/2.7fb8e542.chunk.js.map": "/bankly/static/js/2.7fb8e542.chunk.js.map",
+    "static/js/2.c843b324.chunk.js": "/bankly/static/js/2.c843b324.chunk.js",
+    "static/js/2.c843b324.chunk.js.map": "/bankly/static/js/2.c843b324.chunk.js.map",
     "index.html": "/bankly/index.html",
     "static/css/main.adffd59a.chunk.css.map": "/bankly/static/css/main.adffd59a.chunk.css.map",
-    "static/js/2.7fb8e542.chunk.js.LICENSE.txt": "/bankly/static/js/2.7fb8e542.chunk.js.LICENSE.txt",
+    "static/js/2.c843b324.chunk.js.LICENSE.txt": "/bankly/static/js/2.c843b324.chunk.js.LICENSE.txt",
+    "static/media/img-green.5692723b.jpg": "/bankly/static/media/img-green.5692723b.jpg",
     "static/media/svg-1.svg": "/bankly/static/media/svg-1.198c8835.svg",
     "static/media/svg-2.svg": "/bankly/static/media/svg-2.539d3db9.svg",
     "static/media/svg-5.svg": "/bankly/static/media/svg-5.5f11287c.svg",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f06af1b9.js",
-    "static/js/2.7fb8e542.chunk.js",
+    "static/js/2.c843b324.chunk.js",
     "static/css/main.adffd59a.chunk.css",
-    "static/js/main.26be11e8.chunk.js"
+    "static/js/main.e23d81f3.chunk.js"
   ]
 }
