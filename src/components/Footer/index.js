@@ -1,4 +1,5 @@
 import React from "react";
+import {animateScroll as scroll} from "react-scroll";
 import {
   FooterContainer,
   FooterWrap,
@@ -18,6 +19,10 @@ import {
 import { FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
+
+  const toggleHome = () => {
+    scroll.scrollToTop();
+  }
   return (
     <FooterContainer>
       <FooterWrap>
@@ -66,7 +71,9 @@ const Footer = () => {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/">Bankly</SocialLogo>
+            <SocialLogo to="/bankly" onClick={toggleHome}
+            smooth={true} duration={500} spy={true} exact={true} offset={-80}
+            >Bankly</SocialLogo>
             <WebsiteRights>
               Bankly © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
