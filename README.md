@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Bankly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+A mobile responsive banking application using React, styled components, and smooth scrolling. 
+#####(Created through a @briancodex tutorial)
 
-In the project directory, you can run:
+## Languages:
+* Javascript
+* HTML
+* CSS (through styled components)
 
-### `npm start`
+## Technologies:
+* React
+* React Router Dom
+* Styled Components
+* Smooth Scrolling
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Deployment:
+deftone1.github.io/bankly/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Screenshots of Application:
 
-### `npm test`
+HOME: 
+<img width="1412" alt="Screen Shot 2021-02-23 at 8 59 45 AM" src="https://user-images.githubusercontent.com/66435213/108882472-47dd0a00-75b9-11eb-81dd-c4daecd5b5fc.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ABOUT:
+<img width="1420" alt="Screen Shot 2021-02-23 at 9 29 25 AM" src="https://user-images.githubusercontent.com/66435213/108882879-b0c48200-75b9-11eb-9052-035d6230cfaf.png">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+DISCOVER:
+<img width="1414" alt="Screen Shot 2021-02-23 at 9 00 34 AM" src="https://user-images.githubusercontent.com/66435213/108882678-8246a700-75b9-11eb-9958-7379efcd4701.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+SERVICES:
+<img width="1423" alt="Screen Shot 2021-02-23 at 9 00 57 AM" src="https://user-images.githubusercontent.com/66435213/108883052-d782b880-75b9-11eb-84d6-77d6d689ced2.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+SIGN UP:
+<img width="1415" alt="Screen Shot 2021-02-23 at 9 01 26 AM" src="https://user-images.githubusercontent.com/66435213/108883138-f2552d00-75b9-11eb-89ee-f14dedb723ea.png">
 
-### `npm run eject`
+SIGN IN:
+<img width="1437" alt="Screen Shot 2021-02-23 at 8 59 25 AM" src="https://user-images.githubusercontent.com/66435213/108883275-187acd00-75ba-11eb-8870-9bbb4cf5ec92.png">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+MOBILE RESPONSIVE EXAMPLES:
+<img width="489" alt="Screen Shot 2021-02-23 at 9 02 38 AM" src="https://user-images.githubusercontent.com/66435213/108883469-511aa680-75ba-11eb-94da-252088ddbf2d.png">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="486" alt="Screen Shot 2021-02-23 at 9 02 13 AM" src="https://user-images.githubusercontent.com/66435213/108883525-65f73a00-75ba-11eb-8396-4c9e3dbdec4b.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
