@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bankly/static/css/main.adffd59a.chunk.css",
-    "main.js": "/bankly/static/js/main.e23d81f3.chunk.js",
-    "main.js.map": "/bankly/static/js/main.e23d81f3.chunk.js.map",
+    "main.js": "/bankly/static/js/main.495d93dc.chunk.js",
+    "main.js.map": "/bankly/static/js/main.495d93dc.chunk.js.map",
     "runtime-main.js": "/bankly/static/js/runtime-main.f06af1b9.js",
     "runtime-main.js.map": "/bankly/static/js/runtime-main.f06af1b9.js.map",
     "static/js/2.c843b324.chunk.js": "/bankly/static/js/2.c843b324.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f06af1b9.js",
     "static/js/2.c843b324.chunk.js",
     "static/css/main.adffd59a.chunk.css",
-    "static/js/main.e23d81f3.chunk.js"
+    "static/js/main.495d93dc.chunk.js"
   ]
 }
